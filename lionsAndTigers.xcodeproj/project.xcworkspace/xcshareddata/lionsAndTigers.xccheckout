@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C78F43F2-57BF-4E74-ADBE-1924B8A9AD9F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>lionsAndTigers</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A237AE4189A289B90FB60044EFF1125ADCA7574B</key>
+		<string>github.com:Luis-Espinal/lionsAndTigers.git</string>
+		<key>F443D5FF78C5CE92361DA6005DC44419F30884B4</key>
+		<string>https://github.com/Luis-Espinal/Age-of-Laika.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>lionsAndTigers.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A237AE4189A289B90FB60044EFF1125ADCA7574B</key>
+		<string>../..</string>
+		<key>F443D5FF78C5CE92361DA6005DC44419F30884B4</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:Luis-Espinal/lionsAndTigers.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A237AE4189A289B90FB60044EFF1125ADCA7574B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F443D5FF78C5CE92361DA6005DC44419F30884B4</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A237AE4189A289B90FB60044EFF1125ADCA7574B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>lionsAndTigers</string>
+		</dict>
+	</array>
+</dict>
+</plist>

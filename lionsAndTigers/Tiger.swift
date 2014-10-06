@@ -54,7 +54,7 @@ struct Tiger {
         }
         
         else {
-            randomFact = "A group of tigers i known as an 'ambush' or 'streak'"
+            randomFact = "A group of tigers is known as an 'ambush' or 'streak'"
         }
         
         return randomFact
